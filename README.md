@@ -13,4 +13,6 @@
 
 [Расписание презентаций кафедр](https://vk.com/@fpmi2023-prezentacii-bazovyh-kafedr)
 
+[Отсортированное расписание кафедр](https://docs.google.com/spreadsheets/d/1HS4YM_49tgrqLYJg0Amj7JrvU04yYOJQcoYoRt9Vf2o/edit?gid=1555664328#gid=1555664328)
+
 [Отзывы кафедры](https://github.com/IgorFandre/FpmiDepartmentsReviews)
